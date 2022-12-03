@@ -6,7 +6,7 @@ Prepárate para cualquier entrevista con esta herramienta útil🎯
 ### Instruction: ### 
 
 * You have 40 seconds to answer the question
-* if you have answer that question already then you can click the button to change the question
+* if you already answered that question, you can click the button to change the question
 
 *Enjoy it!*
 

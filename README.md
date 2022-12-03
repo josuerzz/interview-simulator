@@ -10,6 +10,6 @@ Prepárate para cualquier entrevista con esta herramienta útil🎯
 
 *Enjoy it!*
 
-[Link here](https://josuerzz.github.io/interview-simulator/)
+Link here: <https://josuerzz.github.io/interview-simulator/>
 
 
